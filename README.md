@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **internships and jobs.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ajay-kumar-358758227/](https://www.linkedin.com/in/ajay-kumar-358758227/)
+- 👨‍💻 All of my projects are available at [MyPortfolio](https://ajay-portfolio-phi.vercel.app/)
 
 - 💬 Ask me about **Frontend web dev.**
 
