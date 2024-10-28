@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@mailtoajay7007961/30-nites-of-code)  
+  ![@mailtoajay7007961 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mailtoajay7007961)
 
 - 🔭 I’m currently working on **learning web dev.**
 
@@ -28,3 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-ja-y&show_icons=true&locale=en&layout=compact" alt="a-ja-y" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-ja-y&show_icons=true&locale=en" alt="a-ja-y" /></p>
+
