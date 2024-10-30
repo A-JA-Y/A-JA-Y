@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
+<h1>Happy Diwali 🪔</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@mailtoajay7007961/30-nites-of-code)  
