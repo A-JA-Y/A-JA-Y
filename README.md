@@ -4,7 +4,7 @@
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@mailtoajay7007961/30-nites-of-code)  
   ![@mailtoajay7007961 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mailtoajay7007961)
-
+consistency Comment 
 - 🔭 I’m currently working on **learning web dev.**
 
 - 🌱 I’m currently learning **Bootsrap, JQuery, react and next js.**
