@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **learning web dev.**
 
-- 🌱 I’m currently learning **Bootsrap, JQuery, react and next js.**
+- 🌱 I’m currently learning **Tailwind Css, nodejs, express, react and next js.**
 
 - 🤝 I’m looking for help with **internships and jobs.**
 
