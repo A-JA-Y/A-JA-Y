@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [MyPortfolio](https://ajay-portfolio-phi.vercel.app/)
 
-- 💬 Ask me about **Frontend web dev.**
+- 💬 Ask me about **Frontend web dev.** consistency 
 
 - 📫 How to reach me **mailtoajay7007@gmail.com**
 
