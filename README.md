@@ -9,6 +9,7 @@
 - 🤝 I’m looking for help with **internships and jobs.**
 
 - 👨‍💻 All of my projects are available at [MyPortfolio](https://ajay-portfolio-phi.vercel.app/)
+ - Or go to / search for [itzajay.live](https://itzajay.live/)
 
 - 💬 Ask me about **Frontend web dev.** consistency 
 
