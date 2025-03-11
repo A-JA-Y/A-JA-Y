@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **mailtoajay7007@gmail.com**
 
-- ⚡ Fun fact **I am a math student...oh! that's not funny.:(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
